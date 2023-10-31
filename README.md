@@ -1,2 +1,2 @@
 # Techris-streamlit
-The app is hosted live at https://techris-app-a5dncggcr4ek2yurcj4ges.streamlit.app/
+The app is hosted live at https://accident-severity-prediction-app-app-novdvhx7dm8wa65wy4gcxg.streamlit.app/
