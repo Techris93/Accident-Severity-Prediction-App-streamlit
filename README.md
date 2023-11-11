@@ -17,9 +17,9 @@ This is a multiclass classification project to classify the severity of road acc
 
 ### Web app screenshots:
 
-![image](https://user-images.githubusercontent.com/88608935/227510381-e8d6c1c1-a5ab-4869-8e02-e20a278b64cc.png)
+![image](https://i.imgur.com/xpiq3nk.png)
 
-![image](https://user-images.githubusercontent.com/88608935/227510715-348da3f8-fb78-45f8-9b9f-7d2997176d76.png)
+![image](https://i.imgur.com/T6AJpIJ.png)
 
 
 ### Tasks and techniques used:
