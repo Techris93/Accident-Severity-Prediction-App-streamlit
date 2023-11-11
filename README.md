@@ -12,8 +12,6 @@ This is a multiclass classification project to classify the severity of road acc
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://accident-severity-prediction-app-app-novdvhx7dm8wa65wy4gcxg.streamlit.app/)
 
 
-### Collaboration with StackUp developer community:
-
 
 ### Web app screenshots:
 
@@ -48,5 +46,5 @@ This is a multiclass classification project to classify the severity of road acc
 ### References:
 
 1. [Machine learning mastery](https://machinelearningmastery.com/feature-selection-with-categorical-data/)
-2. [Feature engieering techniques](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+2. [Feature engineering techniques](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 
